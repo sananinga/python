@@ -1,0 +1,14 @@
+print("калькулятор")
+a = float(input())
+c = input()
+b = float(input())
+if c == '+':
+    print("a+b=", a+b)
+elif c == '-':
+    print("a-b=", a-b)
+elif c == '/':
+    print("a/b=", a/b)
+elif c  == '*':
+    print("a*b=", a*b)
+    elif c == '**':
+    print("a**b", a**b)
