@@ -10,5 +10,9 @@ elif c == '/':
     print("a/b=", a/b)
 elif c  == '*':
     print("a*b=", a*b)
-    elif c == '**':
+elif c == '**':
     print("a**b", a**b)
+elif c == '//':
+    print("a//b", a//b)
+elif c == '%':
+    print("a%b", a%b)
